@@ -9,9 +9,9 @@ Dinda Maharani (2208107010081)
 Cut Mardilla Agustine (2208107010083)
 
 # Fitur Utama
-Menampilkan semua komik – Menampilkan daftar seluruh komik yang tersimpan di database.
-Mencari komik – Mencari komik berdasarkan nama, genre, atau tahun rilis.
-Menambahkan komik baru – Menyimpan data komik baru ke dalam database.
-Menghapus komik – Menghapus komik dari database berdasarkan nomor urutan.
-Memperbarui informasi komik – Mengubah detail komik seperti nama, genre, atau tahun rilis.
-Menyimpan data dalam file JSON – Data komik disimpan dalam file data.json untuk keperluan penyimpanan secara persisten.
+* Menampilkan semua komik – Menampilkan daftar seluruh komik yang tersimpan di database.
+* Mencari komik – Mencari komik berdasarkan nama, genre, atau tahun rilis.
+* Menambahkan komik baru – Menyimpan data komik baru ke dalam database.
+* Menghapus komik – Menghapus komik dari database berdasarkan nomor urutan.
+* Memperbarui informasi komik – Mengubah detail komik seperti nama, genre, atau tahun rilis.
+* Menyimpan data dalam file JSON – Data komik disimpan dalam file data.json untuk keperluan penyimpanan secara persisten.
