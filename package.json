@@ -1,0 +1,14 @@
+{
+  "name": "project-ppl",
+  "version": "1.0.0",
+  "description": "Sistem database sederhana menggunakan Node.js dengan JSON",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "author": "",
+  "license": "MIT"
+}
