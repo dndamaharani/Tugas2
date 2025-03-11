@@ -5,8 +5,8 @@ Sistem Manajemen Komik adalah aplikasi berbasis Node.js yang memungkinkan penggu
 
 # Anggota Kelompok
 
-Dinda Maharani (2208107010081)
-Cut Mardilla Agustine (2208107010083)
+* Dinda Maharani (2208107010081)
+* Cut Mardilla Agustine (2208107010083)
 
 # Fitur Utama
 * Menampilkan semua komik – Menampilkan daftar seluruh komik yang tersimpan di database.
